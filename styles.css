@@ -1,1 +1,41 @@
+#brucebanner:hover { 
+  color:crimson;
+font-size:72px;
+  
+}
+#sidebar:hover{
+  border-style:dotted;
+border-color:crimson;
+  font-size:125px;
+}
+#sidebar {
+  background:black;
+  color:white;
 
+} 
+#brucebanner { 
+  background:black; 
+  color:white;
+  font-size:70px;
+  border-style:outset;
+  border-color:crimson; 
+  border-width:10px; 
+  font-style:oblique; 
+  position:static; 
+  float:right;
+ height:90px;
+width:400px;
+}  
+#bdt { 
+  color:white;
+  background:black; 
+font-variant:small-caps;
+  
+}  
+#urdad { 
+  background:black;
+font-variant:small-caps;
+  color:white;
+height:90px;
+ font-size:35px; 
+}
