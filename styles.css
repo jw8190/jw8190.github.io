@@ -82,6 +82,10 @@ width:100%px;
     border-style:solid; 
   border-color:firebrick;
 }
+#golf { 
+  border-style:solid;
+  border-color:firebrick;
+}
 ul {
   list-style-type: none;
   margin: 0;
