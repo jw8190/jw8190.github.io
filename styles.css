@@ -20,14 +20,6 @@
     position:static;
 }
 
-#golf { 
-    height:130px;
-    float:left;
-    border-style:solid; 
-    border-color:firebrick; 
-    position:static;
-  
-}
 
 #content { 
  height:100%;
