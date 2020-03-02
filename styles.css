@@ -1,41 +1,110 @@
-#brucebanner:hover { 
-  color:crimson;
-font-size:72px;
-  
+#pic4 { 
+    height:130px;
+    float:left;
+    border-style:solid; 
+    border-color:firebrick; 
+    position:static;
 }
-#sidebar:hover{
-  border-style:dotted;
-border-color:crimson;
-  font-size:125px;
+#pic3 { 
+    height:130px;
+    float:left;
+    border-style:solid; 
+    border-color:firebrick; 
+    position:static;
 }
-#sidebar {
-  background:black;
-  color:white;
+#pic2 { 
+    height:130px;
+    float:left;
+    border-style:solid; 
+    border-color:firebrick; 
+    position:static;
+}
 
-} 
-#golflefleur { 
-  background:black; 
-  color:white;
-  font-size:70px;
-  border-style:outset;
-  border-color:crimson; 
-  border-width:10px; 
-  font-style:oblique; 
-  position:static; 
-  float:right;
- height:90px;
-width:400px;
-}  
-#bdt { 
-  color:white;
-  background:black; 
-font-variant:small-caps;
+#pic1 { 
+    height:130px;
+    float:left;
+    border-style:solid; 
+    border-color:firebrick; 
+    position:static;
   
-}  
-#urdad { 
-  background:black;
-font-variant:small-caps;
+}
+
+#content { 
+ height:100%;
+ background-color:black;
+  border-style:solid; 
+  border-color:black; 
   color:white;
-height:90px;
- font-size:35px; 
+}
+  
+
+
+
+#differentshoes {
+    background:black;
+    color:white;
+    float:left;
+    height:100%;
+    border-style:solid; 
+    border-color:firebrick;
+    font-size:16px;
+} 
+#shoes { 
+    background:black; 
+    color:white;
+    font-size:50;
+    border-style:solid;
+    border-color:firebrick; 
+    border-width:2px; 
+    font-style:oblique; 
+    position:static; 
+   text-align:center;
+  height:60px;
+width:100%px;
+}  
+#instruction { 
+    color:white;
+    background:black; 
+    text-align:left; 
+    border-style:solid; 
+    border-color:firebrick; 
+  width:500px;
+}  
+#shoenames { 
+    background:black;
+    
+   color:white;
+    height:5%;
+    font-size:18px; 
+    text-align:center;
+    width:65%;
+    float:right;
+    border-style:solid; 
+  border-color:firebrick;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width:100%;
+  background-color:black;
+  height: 100%;
+  overflow: auto;
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a.active {
+  background-color:firebrick;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color:white;
+  color:firebrick;
 }
