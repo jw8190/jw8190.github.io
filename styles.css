@@ -17,9 +17,7 @@
 
 #content { 
  height:100%;
- background-color:black;
-  border-style:solid; 
-  border-color:black; 
+ background-color:black
   color:white;
 }
   
@@ -31,16 +29,12 @@
     color:white;
     float:left;
     height:100%;
-    border-style:solid; 
-    border-color:firebrick;
     font-size:16px;
 } 
 #shoes { 
     background:black; 
     color:white;
     font-size:50;
-    border-style:solid;
-    border-color:firebrick; 
     border-width:2px; 
     font-style:oblique; 
     position:static; 
@@ -52,8 +46,6 @@ width:100%px;
     color:white;
     background:black; 
     text-align:left; 
-    border-style:solid; 
-    border-color:firebrick; 
   width:500px;
 }  
 #shoenames { 
@@ -65,9 +57,6 @@ width:100%px;
     text-align:center;
     width:65%;
     float:right;
-    border-style:solid; 
-  border-color:firebrick;
-}
 
 }
 ul {
