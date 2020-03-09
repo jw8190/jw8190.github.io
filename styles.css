@@ -1,22 +1,16 @@
 #pic4 { 
     height:130px;
     float:left;
-    border-style:solid; 
-    border-color:firebrick; 
     position:static;
 }
 #pic3 { 
     height:130px;
-    float:left;
-    border-style:solid; 
-    border-color:firebrick; 
+    float:left
     position:static;
 }
 #pic2 { 
     height:130px;
     float:left;
-    border-style:solid; 
-    border-color:firebrick; 
     position:static;
 }
 
@@ -74,9 +68,7 @@ width:100%px;
     border-style:solid; 
   border-color:firebrick;
 }
-#golf { 
-  border-style:solid;
-  border-color:firebrick;
+
 }
 ul {
   list-style-type: none;
