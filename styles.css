@@ -28,14 +28,14 @@
 
 
 #differentshoes {
-    background:black;
+    background-color:black;
     color:white;
     float:left;
     height:100%;
     font-size:16px;
 } 
 #shoes { 
-    background:black; 
+    background-color:black; 
     color:white;
     font-size:50;
     border-width:2px; 
@@ -47,14 +47,13 @@ width:100%px;
 }  
 #instruction { 
     color:white;
-    background:black; 
+    background-color:black; 
     text-align:left; 
   width:500px;
 }  
 #shoenames { 
-    background:black;
-    
-   color:white;
+    background-color:black;
+    color:white;
     height:5%;
     font-size:18px; 
     text-align:center;
