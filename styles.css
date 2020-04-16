@@ -2,16 +2,19 @@
     height:130px;
     float:left;
     position:static;
+     background-color:black
 }
 #pic3 { 
     height:130px;
     float:left
     position:static;
+     background-color:black
 }
 #pic2 { 
     height:130px;
     float:left;
     position:static;
+     background-color:black
 }
 
 
@@ -71,7 +74,7 @@ ul {
 
 li a {
   display: block;
-  color: white;
+  color: black;
   padding: 8px 16px;
   text-decoration: none;
 }
@@ -85,8 +88,5 @@ li a:hover:not(.active) {
   background-color:white;
   color:firebrick;
 }
-}
-background-color:black
 
-{
     
